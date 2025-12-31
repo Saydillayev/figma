@@ -1,0 +1,200 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Livvic:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,900&family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Public+Sans:ital,wght@0,100..900;1,100..900&family=Quantico:ital,wght@0,400;0,700;1,400;1,700&family=Roboto:ital,wght@0,100..900;1,100..900&family=Rubik:ital,wght@0,300..900;1,300..900&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.menu1{
+    margin-top: 10px;
+}
+.img1{
+    position: relative;
+}
+.img2{
+    position: absolute;
+    top: 10px;
+    left: 35px;
+}
+.img3{
+        position: absolute;
+        top: 10px;
+        left: 80px;
+}
+
+
+.box1{
+     width: 1110px;
+     height: 197px;
+     border-radius: 30px;
+     background-color: black;
+     margin-top: 20px;
+     display: flex;
+     justify-content: space-evenly;
+}
+
+.tittle1{
+    width: 643px;
+height: 74px;
+    font-family: Montserrat;
+font-weight: 600;
+margin-top: 45px;
+font-size: 30px;
+text-align: center;
+color: aliceblue;
+}
+.iphone{
+   margin-top: -60px;
+   padding-left: 80px;
+}
+
+
+.tittle2{
+    font-family: Montserrat;
+font-weight: 600;
+color: #838383;
+font-size: 20px;
+margin-top: 30px;
+margin-left: 220px;
+
+}
+.box2{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+    height: 450px;
+    margin-top: 30px;
+}
+.card1{
+    width: 350px;
+height: 407px;
+box-shadow: 0px 0px 20px 0px #0000001A;
+border-radius: 30px;
+background-color: #FFFFFF;
+}
+.rasm1{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+.p1{
+    font-family: Montserrat;
+font-weight: 600;
+color: #1C1C27;
+font-size: 17px;
+display: flex;
+justify-content: center;
+margin-top: 20px;
+}
+
+
+
+
+.rasm2{
+    margin-left: 20px;
+    margin-top: 15px;
+}
+.rasm3{
+    margin-top: -20px;
+    margin-left: 60px;
+}
+.rasm4{
+   margin-bottom: 85px;
+   margin-left: 60px;
+}
+.text1{
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+
+.container5{
+    margin-top: 430px;
+
+height: 455px;
+}
+.tittle3{
+        font-family: Montserrat;
+font-weight: 600;
+color: #838383;
+font-size: 20px;
+margin-top: 50px;
+margin-left: 200px;
+}
+.box3{
+      display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+    height: 450px;
+    margin-top: 30px;
+}
+.card2{
+        width: 350px;
+height: 407px;
+box-shadow: 0px 0px 20px 0px #0000001A;
+border-radius: 30px;
+}
+.apple1{
+    margin-left: 300px;
+}
+h4{
+font-family: Montserrat;
+font-weight: 600;
+color: #1C1C27;
+font-size: 17px;
+}
+h5{
+    color: #FFA542;
+    font-family: Montserrat;
+font-weight: 600;
+font-size: 17px;
+}
+.past{
+    margin-left: 50px;
+    margin-top: 20px;
+}
+h6{
+    font-family: Montserrat;
+font-weight: 600;
+font-size: 17px;
+color: #838383;
+}
+
+
+
+
+.footer1{
+    background-color: #FFFFFF;
+    height: 150px;
+    width: 1100px;
+    margin-top: 90px;
+    border-top-left-radius: 30px;
+    border-top-right-radius: 30px;
+    margin-left: 190px;
+}
+.logo{
+   padding-top: 30px;
+   margin-left: 20px;
+}
+.informatsiya{
+    margin-top: 40px;
+}
+.til{
+    margin-top: 40px;
+}
+.lgo{
+    color: #101010;
+}
+.lgo:hover{
+    color: #FFA542;
+}
+.social{
+    margin-left: 400px;
+    margin-top: -50px;
+}
